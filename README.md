@@ -32,3 +32,8 @@ Repository contains portfolio of Datascience projects completed by me for self l
    
        1. Handwritten Digit Recognition : Designing and implementing a convolutional neural network that 
           learns to recognize the handwritten digits from MNIST.
+          
+   # RNN
+     
+       1. Fake News Classification : An Long Short Term Memory model which is used to predict whether the
+          news published is fake or not using word embedding technique.
