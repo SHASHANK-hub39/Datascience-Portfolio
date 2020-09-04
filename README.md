@@ -37,3 +37,17 @@ Repository contains portfolio of Datascience projects completed by me for self l
      
        1. Fake News Classification : An Long Short Term Memory model which is used to predict whether the
           news published is fake or not using word embedding technique.
+          
+          
+  # Natural Language Processing
+  
+       1. Sentiment Analysis : A text based data with reviews taken from an amazon website and creating a model
+          used to predict whether the review is positive or a negative.
+          
+       2. Fake News Classification : Model designed to predict whether the news published classifies a fake or not 
+          using a Multinomial Navie Bayes Algorithm.
+          
+  # Feature Engineering
+  
+       1. Various feature engineering techniques like how to handle null data, categorical data, numerical data
+          and types of ordinal encoding, nominal encoding also various techniques of handling outliers in dataset.
